@@ -34,7 +34,7 @@
     Нарушена адаптивная верстка на мобильном разрешении
   environment: |
     https://products-store.hexlet.app/
-    Google Chrome 120.0.6099.130, режим устройства iPhone 12 (390x844)
+    Google Chrome 120.0.6099.130, режим устройства iPhone 15 (390x844)
     ОС Linux 22.04
   steps-to-reproduce: |
     1. Открыть сайт в DevTools в режиме мобильного устройства
