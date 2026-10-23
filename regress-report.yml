@@ -53,7 +53,7 @@ bugreports:
       На мобильном разрешении фильтр перекрывает карточки товаров
     environment: |
       https://products-store.hexlet.app/ (вторая версия)
-      Google Chrome 120.0.6099.130, режим iPhone 12 (390x844)
+      Google Chrome 120.0.6099.130, режим iPhone 15 (390x844)
       ОС Linux 22.04
     steps-to-reproduce: |
       1. Открыть сайт в DevTools в режиме мобильного устройства
